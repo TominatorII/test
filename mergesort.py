@@ -1,3 +1,4 @@
+# thanks to https://rosettacode.org/wiki/Sorting_algorithms/Merge_sort#Python
 from heapq import merge
  
 def merge_sort(m):
